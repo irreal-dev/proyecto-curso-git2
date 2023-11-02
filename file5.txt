@@ -10,8 +10,12 @@ Linea de File5
 
 :)
 
+<<<<<<< HEAD
 Mas cambios yuuupi
 
 Para rama nueva 2!
 
 Tujuuu
+=======
+Ramanueva 1 haciendo de las suyas
+>>>>>>> ramaNueva1
